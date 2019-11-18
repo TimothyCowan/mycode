@@ -1,0 +1,11 @@
+<application>
+  <component name="GithubAccounts">
+    <account id="0b2eea22-561e-4e49-8b02-cca41e191024" name="swampy10">
+      <server host="github.com" />
+    </account>
+  </component>
+  <component name="GithubSettings">
+    <option name="COPY_URL_GIST" value="true" />
+    <option name="PRIVATE_GIST" value="false" />
+  </component>
+</application>

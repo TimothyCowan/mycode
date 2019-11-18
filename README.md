@@ -18,4 +18,4 @@ sudo dnf install python3 (intall python3 using fedora)
 
 ## Authors
 
-* **Timothy Cowan** - *Initial work* - swampy.me
+* **Timothy Cowan** - *Initial work*  -  swampy.me

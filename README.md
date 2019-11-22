@@ -1,4 +1,4 @@
-# mycode (Project Title)
+# mycode
 
 Learning to code with Python. Using this Repo to better understand git.
 
@@ -18,4 +18,4 @@ sudo dnf install python3 (intall python3 using fedora)
 
 ## Authors
 
-* **Timothy Cowan** - *Initial work*  -  swampy.me
+**Timothy Cowan** - swampy.me

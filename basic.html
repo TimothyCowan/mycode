@@ -1,0 +1,9 @@
+{% extends "layout.html" %}
+{% block content %}
+<body><p>File will upload for user: {{ name }}</p>
+<form action = "/filedrop/{{ name }}" method = "POST"
+   enctype = "multipart/form-data">
+   <input type = "file" name = "file" />
+   <input type = "submit"/>
+</form>
+{% endblock content %}
